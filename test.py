@@ -15,7 +15,7 @@ while True:
     dd=input('Enter your username: ')
     ss=input('Enter your pssd: ')
     if dd==sam and ss==dam:
-        print('succes')
+        print('success')
         webbrowser.open('https://d-was.github.io/Cheems/')
         break
 
